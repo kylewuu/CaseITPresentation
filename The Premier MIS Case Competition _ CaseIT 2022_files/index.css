@@ -1,0 +1,49 @@
+html {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    color: #5271ff;
+}
+
+section {
+    padding-top: 50px;
+    margin-bottom: 800px !important;
+}
+
+.bottom-right.inView {
+    opacity: 1;
+    -webkit-transform: translateY(0px) rotate(0deg) translateZ(0);
+    transform: translateY(0px) rotate(0deg) translateZ(0);
+}
+.inView {
+    opacity: 1;
+    -webkit-transform: translateY(0px) rotate(0deg) translateZ(0);
+    transform: translateY(0px) rotate(0deg) translateZ(0);
+}
+
+#caseitGoingOnline {
+    background-image: linear-gradient(to right, black, #0f0f0f, black) !important;
+}
+
+#collabOfThe {
+    color:white;
+}
+
+
+#myVideo {
+    position: absolute;
+    width: 100%;
+}
+
+.white {
+    color: white !important;
+}
+
+.gif {
+    margin: auto;
+}
+
+.headings {
+    margin-bottom: 50px;
+}
